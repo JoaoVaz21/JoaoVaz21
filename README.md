@@ -1,5 +1,4 @@
-- 👋 Hi, I’m João Vaz and i'm a software engineer interested in becoming a full time game developper!
-- 🌱 I’m currently learning Unity and continuously improving my C# skills.
+- 👋 Hi, I’m João Vaz and i'm a software engineer with 7+ years of experience, mainly focused in the development of 3D visualization software and video-games.
 - 📫 You can reach me at joao.filipe.vaz@outlook.pt
 
 <!---
